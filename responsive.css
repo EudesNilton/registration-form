@@ -1,0 +1,14 @@
+@media (min-width: 769px){
+  .presentation{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .presentation h1{
+    font-size: 2rem;
+  }
+
+  .presentation img{
+    width: 9rem;
+  }
+}
