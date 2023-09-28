@@ -5,6 +5,10 @@
   font-family: 'Roboto', sans-serif;
 }
 
+body, html{
+  height: 100%;
+}
+
 section{
   display: flex;
   align-items: center;
@@ -17,7 +21,6 @@ section{
   height: 100vh;
   display: flex;
   flex-direction: column;
-
 }
 .form h2{
   font-size: 1.7rem;
